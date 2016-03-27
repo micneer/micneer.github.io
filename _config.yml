@@ -9,4 +9,4 @@ twitter_username: micneer
 github_username:  micneer
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
