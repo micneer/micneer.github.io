@@ -3,7 +3,7 @@ title: Side Project
 email: webmaster@sideproject.cn
 description: > # this means to ignore newlines until "baseurl:"
   Side Project
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://sideproject.cn" # the base hostname & protocol for your site
 twitter_username: micneer
 github_username:  micneer
