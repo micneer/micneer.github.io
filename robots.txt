@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://micneer.github.io/sitemap.xml 
