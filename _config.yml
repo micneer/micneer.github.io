@@ -2,11 +2,11 @@
 title: Side Project
 email: webmaster@sideproject.cn
 description: > # this means to ignore newlines until "baseurl:"
-  Side Project
-baseurl: "/" # the subpath of your site, e.g. /blog/
+  Side Project Description
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sideproject.cn" # the base hostname & protocol for your site
 twitter_username: micneer
 github_username:  micneer
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
