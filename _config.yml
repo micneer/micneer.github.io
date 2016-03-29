@@ -1,10 +1,10 @@
 # Site settings
-title: Side Project
-email: webmaster@sideproject.cn
+title: micneer.com
+email: webmaster@micneer.com
 description: > # this means to ignore newlines until "baseurl:"
-  Side Project Description
+  Micneer Description
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sideproject.cn" # the base hostname & protocol for your site
+url: "http://micneer.com" # the base hostname & protocol for your site
 twitter_username: micneer
 github_username:  micneer
 
