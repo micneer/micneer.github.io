@@ -1,12 +1,15 @@
 # Site settings
-title: micneer.com
-email: webmaster@micneer.com
+title: open.micneer.com
+email: open@micneer.com
 description: > # this means to ignore newlines until "baseurl:"
   Micneer Description
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://micneer.com" # the base hostname & protocol for your site
+url: "http://open.micneer.com" # the base hostname & protocol for your site
+
+# Third account
 twitter_username: micneer
 github_username:  micneer
+weibo_username: micneer
 
 # Build settings
 markdown: kramdown
