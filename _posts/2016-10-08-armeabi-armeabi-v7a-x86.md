@@ -5,8 +5,7 @@ date:   2016-10-08 21:00:15
 categories: android
 ---
 
-#armeabi, armeabi-v7a, x86, mips
+# armeabi, armeabi-v7a, x86, mips
 
-在Android开发过程中，经常见到armeabi, armeabi-v7a, x86这样的不同文件件
-
-
+armeabi 和 armeabi-v7a是表示cpu的类型，一般的手机或平板都是用arm的cpu，不同的cpu的特性不一样，
+armeabi就是针对普通的或旧的arm v5 cpu，armeabi-v7a是针对有浮点运算或高级扩展功能的arm v7 cpu。
