@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-大家好！这是我在Github上的博客，体验与Wordpress等不一样的写作体验。本站网址：[open.micneer.com](http://open.micneer.com)  
+大家好！这是我在Github上的博客，体验不一样的写作方式。本站网址：[open.micneer.com](http://open.micneer.com)  
 
 本站网站源码以及博客文章都是开源的，Github地址：[github.com/micneer/micneer.github.io](https://github.com/micneer/micneer.github.io)  
 
