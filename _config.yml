@@ -8,7 +8,7 @@ url: "http://open.micneer.com" # the base hostname & protocol for your site
 
 # Third account
 twitter_username: micneer
-github_username:  micneer
+github_username: micneer
 weibo_username: micneer
 
 # Build settings
