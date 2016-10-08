@@ -2,7 +2,8 @@
 title: open.micneer.com
 email: open@micneer.com
 description: > # this means to ignore newlines until "baseurl:"
-  Micneer Description
+  技术改变世界，阅读塑造人生。
+  &copy; 2016 Micneer.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://open.micneer.com" # the base hostname & protocol for your site
 
