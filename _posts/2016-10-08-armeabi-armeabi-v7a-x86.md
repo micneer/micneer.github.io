@@ -7,4 +7,6 @@ categories: android
 
 #armeabi, armeabi-v7a, x86, mips
 
+在Android开发过程中，经常见到armeabi, armeabi-v7a, x86这样的不同文件件
+
 
