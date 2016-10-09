@@ -6,7 +6,7 @@ author:
 homepage:
 start:
 end:
-categories: android 
+categories: socket 
 tags: 
 ---
 
