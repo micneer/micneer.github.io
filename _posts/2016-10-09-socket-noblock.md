@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Socket 非阻塞模式
+title: Socket noblock
 subtitle: socket
 author:
 homepage:
@@ -10,7 +10,6 @@ categories: android
 tags: 
 ---
 
-
-#Socket 非阻塞模式
+**Socket 非阻塞模式**
 
 to be continue...

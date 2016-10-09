@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Socket 阻塞模式
+title: Socket block
 subtitle: socket
 author:
 homepage:
@@ -10,6 +10,6 @@ categories: android
 tags: 
 ---
 
-Socket 阻塞模式
+**Socket 阻塞模式**
 
 to be continue...
