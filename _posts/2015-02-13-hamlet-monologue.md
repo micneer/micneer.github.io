@@ -2,6 +2,12 @@
 layout: post
 title: To be
 subtitle: ... or not to be?
+author:
+homepage:
+start:
+end:
+categories: android 
+tags: 
 ---
 
     To be, or not to be--that is the question:
