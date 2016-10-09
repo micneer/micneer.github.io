@@ -1,9 +1,9 @@
 # Site settings
-title: 开放的博客
+title: Micneer's Blog
 email: open@micneer.com
 description: > # this means to ignore newlines until "baseurl:"
   技术改变世界，阅读塑造人生。<br />
-  &copy; 2016 Micneer.com
+  &copy; 2016 <a href="http://micneer.com">Micneer</a>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://open.micneer.com" # the base hostname & protocol for your site
 
