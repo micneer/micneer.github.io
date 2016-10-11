@@ -12,10 +12,12 @@ tags: socket, create, network
 
 函数原型：
 
-~~~
+```c
+
 int setsockopt(int sockfd, int level, int optname,  
              const void *optval, socklen_t optlen);
-~~~
+
+```
 
 参数说明：
 
