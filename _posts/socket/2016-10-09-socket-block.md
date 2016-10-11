@@ -4,8 +4,6 @@ title: Socket block
 subtitle: socket
 author:
 homepage:
-start:
-end:
 categories: socket 
 tags: 
 ---

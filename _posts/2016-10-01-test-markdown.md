@@ -25,7 +25,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](http://lafenicegelato.com/wp-content/uploads/2014/09/crepes-with-chocolate.jpg)
+![梧桐山](https://dn-md.qbox.me/wutongshan.jpg)
 
 Here's a code chunk:
 
@@ -41,4 +41,12 @@ var foo = function(x) {
   return(x + 5);
 }
 foo(3)
+```
+
+And here is c/c++
+
+```c
+int main(int argc, char * argv[]) {
+  return 0;
+}
 ```
