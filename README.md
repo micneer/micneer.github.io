@@ -1,5 +1,5 @@
 # micneer.github.io
 
-This Website has another cname [open.micneer.com](http://open.micneer.com)
+CNMAE  [micneer.com](http://micneer.com)
 
 Best wishes!
