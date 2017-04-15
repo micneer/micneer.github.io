@@ -1,5 +1,6 @@
 # Site settings
 title: Micneer's
+name: Micneer
 profile: "Talk is cheap, show me the code."
 email: idea@micneer.com
 description: > # this means to ignore newlines until "baseurl:"
