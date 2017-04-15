@@ -1,12 +1,12 @@
 # Site settings
-title: Micneer's Blog
-profile: "Talk is cheap, Show me the code."
-email: open@micneer.com
+title: Micneer's
+profile: "Talk is cheap, show me the code."
+email: idea@micneer.com
 description: > # this means to ignore newlines until "baseurl:"
-  To be, or not to be: that is the question.<br />
-  &copy; 2016 Micneer
+  To be, or not to be: that is the question.
+# Host infomation
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://open.micneer.com" # the base hostname & protocol for your site
+url: "http://micneer.com" # the base hostname & protocol for your site
 timezone: Asia/Shanghai
 
 # Permalink url format
@@ -17,11 +17,23 @@ permalink: /:categories/:title.html
 author: micneer
 authorsite: "http://micneer.com"
 authoremail: micneer@gmail.com
-
-# Third account
 twitter_username: micneer
 github_username: micneer
 weibo_username: micneer
+# Pages
+gems: [jekyll-paginate]
+paginate: 50
+paginate_path: "p:num"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  use_coderay: true
+  extensions:
+    -autolink
+    -footnotes
+    -smart
+  syntax_highlighter: rouge
+  coderay: 
+    coderay_line_numbers: nil
