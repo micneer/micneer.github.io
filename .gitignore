@@ -2,3 +2,5 @@ _site
 .sass-cache
 .svn
 .DS_Store
+*.sh
+readme.txt
