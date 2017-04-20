@@ -1,54 +1,23 @@
 ---
-title: 首页
-layout: page
+layout: default
 ---
 
-<ul class="listing2">
-{% for post in paginator.posts %}
-  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-  {% if year != y %}
-    {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
-  {% endif %}
-  <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{site.path}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+<div class="home">
 
-<div id="post-pagination" class="paginator">
+  <h1 class="page-heading">Posts</h1>
 
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-    <a href="{{site.path}}/">前一页</a>
-    {% else %}
-    <a href="{{site.path}}/p{{paginator.previous_page}}">前一页</a>
-    {% endif %}
-  {% else %}
-    <span class="previous disabled">前一页</span>
-  {% endif %}
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-      {% if paginator.page == 1 %}
-      <span class="current-page">1</span>
-      {% else %}
-      <a href="{{site.path}}/">1</a>
-      {% endif %}
-
-    {% for count in (2..paginator.total_pages) %}
-      {% if count == paginator.page %}
-      <span class="current-page">{{count}}</span>
-      {% else %}
-      <a href="{{site.path}}/p{{count}}">{{count}}</a>
-      {% endif %}
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
     {% endfor %}
+  </ul>
 
-  {% if paginator.next_page %}
-    <a class="next" href="{{site.path}}/p{{paginator.next_page}}">后一页</a>
-  {% else %}
-    <span class="next disabled" >后一页</span>
-  {% endif %}
-  (共{{ paginator.total_posts }}篇)
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
 </div>
-
-

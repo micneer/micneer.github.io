@@ -1,30 +1,23 @@
 # Site settings
-title: Micneer's
-name: Micneer
-profile: "Talk is cheap, show me the code."
-email: idea@micneer.com
+title: Your awesome title
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  To be, or not to be: that is the question.
-# Host infomation
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://micneer.com" # the base hostname & protocol for your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+host: 121.40.95.23
+port: 9002
 timezone: Asia/Shanghai
 
-# Permalink url format
+############################
 highlighter: rouge
 permalink: /:categories/:title.html
 
-# Default Author
-author: micneer
-authorsite: "http://micneer.com"
-authoremail: micneer@gmail.com
-twitter_username: micneer
-github_username: micneer
-weibo_username: micneer
-# Pages
-gems: [jekyll-paginate]
-paginate: 50
-paginate_path: "p:num"
+############################
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
