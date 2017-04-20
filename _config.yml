@@ -1,23 +1,28 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Micneer
+name: 文学
+email: idea@micneer.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  每个人都有一个诗人的梦想。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-host: 121.40.95.23
-port: 9002
+url: "http://micneer.com" # the base hostname & protocol for your site
+
 timezone: Asia/Shanghai
 
-############################
+# name
 highlighter: rouge
 permalink: /:categories/:title.html
 
-############################
-twitter_username: jekyllrb
-github_username:  jekyll
+# sns
+author: fire
+twitter_username: micneer
+github_username:  micneer
+
+# Pages
+gems: [jekyll-paginate]
+paginate: 50
+paginate_path: "p:num"
+
 
 # Build settings
 markdown: kramdown
