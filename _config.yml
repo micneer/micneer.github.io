@@ -14,7 +14,7 @@ highlighter: rouge
 permalink: /:categories/:title.html
 
 # sns
-author: fire
+author: micneer
 twitter_username: micneer
 github_username:  micneer
 
