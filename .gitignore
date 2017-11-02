@@ -1,7 +1,6 @@
 _site
-.sass-cache
 .svn
 .DS_Store
+.sass-cache
 *.sh
-readme.txt
-publish.sh
+*.txt
