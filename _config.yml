@@ -9,30 +9,23 @@ url: "http://micneer.com" # the base hostname & protocol for your site
 
 timezone: Asia/Shanghai
 
-# name
-highlighter: rouge
-permalink: /:categories/:title.html
-
 # sns
 author: micneer
 twitter_username: micneer
 github_username:  micneer
 
-# Pages
-gems: [jekyll-paginate]
-paginate: 50
-paginate_path: "p:num"
-
-
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  use_coderay: true
-  extensions:
-    -autolink
-    -footnotes
-    -smart
-  syntax_highlighter: rouge
-  coderay: 
-    coderay_line_numbers: nil
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Pages
+paginate: 30
+paginate_path: "p:num"
+
+# Permalink
+highlighter: rouge
+permalink: /:categories/:title.html
