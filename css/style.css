@@ -139,3 +139,44 @@ background: #ff0000;
 color: white;
 background: #83BF73;
 }
+
+.post-content p img {
+float: right;
+border: 3px solid #ddd;
+padding: 2px;
+background: #fff;
+border-radius: 3px;
+}
+
+.image-title {
+float: left !important;
+border: 0px solid #ddd !important;
+vertical-align: top;
+max-width: 100%;
+border-radius: 8px !important;
+}
+
+.image-left {
+float: left !important;
+border: 0px solid #ddd !important;
+vertical-align: top;
+max-width: 40%;
+border-radius: 8px !important;
+}
+
+.image-middle {
+float: none !important;
+border: 0px solid #ddd !important;
+vertical-align: top;
+max-width: 80%;
+border-radius: 8px !important;
+}
+
+.image-right {
+float: right !important;
+border: 0px solid #ddd !important;
+vertical-align: top;
+max-width: 40%;
+border-radius: 8px !important;
+}
+        
