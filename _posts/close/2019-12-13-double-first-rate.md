@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “双一流”建设学科名单
+title: 双一流建设学科名单
 author: fire
 categories: tips 
 tags: 双一流
