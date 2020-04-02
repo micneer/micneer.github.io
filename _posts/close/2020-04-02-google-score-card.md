@@ -8,7 +8,7 @@ tags: Google评分卡
 
 ![title](http://image.sideproject.cn/title/title_168.jpg){:class="image-title"}
 
-Google评分卡可以分为四档：0~2是一档；3~5是二挡；6~8是三档；9~10是四挡。
+Google评分卡可以分为四档：**0~2是一档**；**3~5是二挡**；**6~8是三档**；**9~10是四挡**。
 
 ```
 0. 对于相关的技术领域还不熟悉；
