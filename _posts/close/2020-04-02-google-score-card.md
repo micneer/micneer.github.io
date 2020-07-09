@@ -4,6 +4,7 @@ title: Google评分卡
 author: fire
 categories: tips 
 tags: Google评分卡
+comment: true
 ---
 
 ![title](http://image.sideproject.cn/title/title_168.jpg){:class="image-title"}

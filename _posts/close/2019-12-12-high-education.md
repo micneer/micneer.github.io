@@ -4,6 +4,7 @@ title: 普通高等学校本科专业目录
 author: fire
 categories: tips 
 tags: 本科专业
+comment: true
 ---
 
 ![title](http://image.sideproject.cn/title/title_085.jpg){:class="image-title"}
