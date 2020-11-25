@@ -3,7 +3,7 @@ layout: post
 title: 关于中国互联网络域名体系的公告
 author: fire
 categories: tips 
-tags: 重点大学
+tags: 域名缩写
 comment: true
 ---
 
