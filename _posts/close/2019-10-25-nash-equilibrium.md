@@ -7,7 +7,7 @@ tags: 博弈论 Game Theory
 comment: true
 ---
 
-![title](http://image.sideproject.cn/title/title_180.jpg){:class="image-title"}
+[![title](//image.sideproject.cn/titlex/title_019.jpg){:class="image-title"}](//image.sideproject.cn/titlex/title_019.jpg){:target="_blank"}
 
 **纳什均衡**(Nash equilibrium)
 

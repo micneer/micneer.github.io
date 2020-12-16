@@ -7,7 +7,7 @@ tags: 博弈论 Game Theory
 comment: true
 ---
 
-![title](http://image.sideproject.cn/title/title_181.jpg){:class="image-title"}
+[![title](//image.sideproject.cn/titlex/title_018.jpg){:class="image-title"}](//image.sideproject.cn/titlex/title_018.jpg){:target="_blank"}
 
 **囚徒困境**(Prisoner's dilemma)
 

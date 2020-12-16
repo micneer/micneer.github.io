@@ -7,4 +7,6 @@ tags: 悖论
 comment: true
 ---
 
+[![title](//image.sideproject.cn/titlex/title_018.jpg){:class="image-title"}](//image.sideproject.cn/titlex/title_018.jpg){:target="_blank"}
+
 外祖母悖论
