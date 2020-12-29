@@ -7,7 +7,7 @@ tags: 博弈论 Game Theory
 comment: true
 ---
 
-[![title](//image.sideproject.cn/titlex/title_002.jpg){:class="image-title"}](//image.sideproject.cn/titlex/title_002.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/title_002.jpg){:class="image-title"}](//image.sideproject.cn/titlex/title_002.jpg){:target="_blank"}
 
 **胆小鬼博弈**(Chicken Game)
 

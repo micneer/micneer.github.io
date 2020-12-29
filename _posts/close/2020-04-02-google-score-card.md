@@ -7,7 +7,7 @@ tags: Google评分卡
 comment: true
 ---
 
-[![title](//image.sideproject.cn/titlex/title_010.jpg){:class="image-title"}](//image.sideproject.cn/titlex/title_010.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/title_010.jpg){:class="image-title"}](//image.sideproject.cn/titlex/title_010.jpg){:target="_blank"}
 
 Google评分卡可以分为四档：**0~2是一档**；**3~5是二挡**；**6~8是三档**；**9~10是四挡**。
 
