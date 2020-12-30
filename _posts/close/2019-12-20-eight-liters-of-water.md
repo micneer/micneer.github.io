@@ -7,7 +7,7 @@ tags: 取水
 comment: true
 ---
 
-[![title](https://image.sideproject.cn/titlex/title_008.jpg){:class="image-title"}](//image.sideproject.cn/titlex/title_008.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/title_008.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/title_008.jpg){:target="_blank"}
 
 **问：** 有两个桶，一个10升，一个6升，怎么取8升水？
 
