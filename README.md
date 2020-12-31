@@ -1,4 +1,4 @@
 # MICNEER
 
-[MICNEER.COM](http://micneer.com)
+[MICNEER.COM](https://micneer.com)
 

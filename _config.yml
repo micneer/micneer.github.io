@@ -5,7 +5,7 @@ email: idea@micneer.com
 description: > # this means to ignore newlines until "baseurl:"
   The time is passing.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://micneer.com" # the base hostname & protocol for your site
+url: "https://micneer.com" # the base hostname & protocol for your site
 
 timezone: Asia/Shanghai
 
