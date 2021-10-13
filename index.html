@@ -23,7 +23,7 @@ layout: page
     {% if paginator.previous_page == 1 %}
     <a href="{{site.path}}/">前一页</a>
     {% else %}
-    <a href="{{site.path}}/p{{paginator.previous_page}}">前一页</a>
+    <a href="{{site.path}}/p{{paginator.previous_page}}/">前一页</a>
     {% endif %}
   {% else %}
     <span class="previous disabled">前一页</span>
@@ -39,12 +39,12 @@ layout: page
       {% if count == paginator.page %}
       <span class="current-page">{{count}}</span>
       {% else %}
-      <a href="{{site.path}}/p{{count}}">{{count}}</a>
+      <a href="{{site.path}}/p{{count}}/">{{count}}</a>
       {% endif %}
     {% endfor %}
 
   {% if paginator.next_page %}
-    <a class="next" href="{{site.path}}/p{{paginator.next_page}}">后一页</a>
+    <a class="next" href="{{site.path}}/p{{paginator.next_page}}/">后一页</a>
   {% else %}
     <span class="next disabled" >后一页</span>
   {% endif %}
