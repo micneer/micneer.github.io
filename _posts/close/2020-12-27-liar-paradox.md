@@ -7,7 +7,7 @@ tags: 悖论
 comment: true
 ---
 
-[![title](https://image.sideproject.cn/titlex/title_051.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/title_051.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_051.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_051.jpg){:target="_blank"}
 
 **说谎者悖论**（Liar Paradox）又称为谎言者悖论，悖论内容为：
 
