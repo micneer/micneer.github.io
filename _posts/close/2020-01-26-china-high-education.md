@@ -7,7 +7,7 @@ tags: 本科专业
 comment: true
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_006.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_006.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_006.jpg){:target="_blank"}
 
 **普通高等学校本科专业目录**
 
