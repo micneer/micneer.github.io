@@ -7,7 +7,7 @@ tags: KISS
 comment: true
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_052.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_052.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_152.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_152.jpg){:target="_blank"}
 
 **KISS原则**(Keep It Simple and Stupid)
 

@@ -7,7 +7,7 @@ tags: 悖论
 comment: true
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_011.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_011.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_111.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_111.jpg){:target="_blank"}
 
 **辛普森悖论**
 

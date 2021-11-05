@@ -7,6 +7,8 @@ tags: 域名缩写
 comment: true
 ---
 
+[![title](https://image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_158.jpg){:target="_blank"}
+
 《**中华人民共和国信息产业部关于中国互联网络域名体系的公告**》
 
 信息产业部关于调整中国互联网络域名体系的公告（信部电[2008]172号）

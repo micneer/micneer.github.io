@@ -7,6 +7,8 @@ tags: 重点大学
 comment: true
 ---
 
+[![title](https://image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_158.jpg){:target="_blank"}
+
 中国省级行政区：**23个省**、**5个自治区**、**4个直辖市**、**2个特别行政区**，合计**34**个省级行政区。
 
 **4个直辖市**

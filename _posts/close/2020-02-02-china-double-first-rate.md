@@ -7,7 +7,7 @@ tags: 双一流
 comment: true
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_007.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_007.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_158.jpg){:target="_blank"}
 
 **“双一流”建设学科名单**
 
