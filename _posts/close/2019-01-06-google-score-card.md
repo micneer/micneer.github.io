@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Google评分卡
-author: fire
 categories: tips 
 tags: Google评分卡
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_169.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_169.jpg){:target="_blank"}

@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 胆小鬼博弈
-author: fire
 categories: tips 
 tags: 博弈论 Game Theory
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_166.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_166.jpg){:target="_blank"}

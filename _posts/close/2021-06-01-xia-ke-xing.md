@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 侠客行
-author: fire
 categories: tips 
 tags: 古诗词
-comment: true
 ---
 
 *[【作者】李白 【朝代】唐](#)*

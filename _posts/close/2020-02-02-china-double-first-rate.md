@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 中国双一流建设学科名单
-author: fire
 categories: tips 
 tags: 双一流
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_158.jpg){:target="_blank"}

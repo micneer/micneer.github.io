@@ -1,10 +1,8 @@
 ---
 layout: post
 title: KISS原则
-author: fire
 categories: tips 
 tags: KISS
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_152.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_152.jpg){:target="_blank"}

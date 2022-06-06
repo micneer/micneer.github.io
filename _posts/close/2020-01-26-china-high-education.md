@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 中国普通高等学校本科专业目录
-author: fire
 categories: tips 
 tags: 本科专业
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_158.jpg){:target="_blank"}

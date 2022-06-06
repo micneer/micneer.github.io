@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 中国互联网络域名体系的公告
-author: fire
 categories: tips 
 tags: 域名缩写
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_158.jpg){:target="_blank"}

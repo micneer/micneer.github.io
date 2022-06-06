@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 纳什均衡
-author: fire
 categories: tips 
 tags: 博弈论 Game Theory
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_168.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_168.jpg){:target="_blank"}

@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 中国各省重点大学
-author: fire
 categories: tips 
 tags: 重点大学
-comment: true
 ---
 
 [![title](//image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](//image.sideproject.cn/titlex/titlex_158.jpg){:target="_blank"}

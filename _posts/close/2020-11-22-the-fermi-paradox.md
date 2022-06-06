@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 费米悖论
-author: fire
 categories: tips 
 tags: 悖论
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_213.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_213.jpg){:target="_blank"}

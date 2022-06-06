@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 说谎者悖论
-author: fire
 categories: tips 
 tags: 悖论
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_051.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_051.jpg){:target="_blank"}

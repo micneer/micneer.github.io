@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 有两个桶，一个10升一个6升，怎么取8升水？
-author: fire
 categories: tips 
 tags: 取水
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_098.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_098.jpg){:target="_blank"}

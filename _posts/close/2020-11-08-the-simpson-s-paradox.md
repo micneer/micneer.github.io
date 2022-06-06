@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 辛普森悖论
-author: fire
 categories: tips 
 tags: 悖论
-comment: true
 ---
 
 [![title](https://image.sideproject.cn/titlex/titlex_111.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_111.jpg){:target="_blank"}
