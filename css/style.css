@@ -141,6 +141,7 @@ background: #83BF73;
 }
 
 .post-content p img {
+max-width:100%;
 float: right;
 border: 3px solid #ddd;
 padding: 2px;
