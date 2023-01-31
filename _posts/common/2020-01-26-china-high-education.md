@@ -2,10 +2,11 @@
 layout: post
 title: 中国普通高等学校本科专业目录
 categories: tips 
-tags: 本科专业
+tags: 大学
+date: 2020/01/26 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_158.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_158.jpg)](https://image.sideproject.cn/titlex/titlex_158.jpg)
 
 **普通高等学校本科专业目录**
 

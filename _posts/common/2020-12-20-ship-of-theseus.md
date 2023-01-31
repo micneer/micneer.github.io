@@ -2,10 +2,11 @@
 layout: post
 title: 忒修斯之船悖论
 categories: tips 
-tags: 悖论
+tags: 辩论
+date: 2020/12/20 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_050.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_050.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_050.jpg)](https://image.sideproject.cn/titlex/titlex_050.jpg)
 
 
 **忒修斯之船**（The Ship of Theseus）又译为特修斯之船，亦称为忒修斯悖论，是一种有关身份更替的悖论。

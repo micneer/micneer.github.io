@@ -2,10 +2,11 @@
 layout: post
 title: KISS原则
 categories: tips 
-tags: KISS
+tags: 辩论
+date: 2020/08/16 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_152.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_152.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_152.jpg)](https://image.sideproject.cn/titlex/titlex_152.jpg)
 
 **KISS原则**(Keep It Simple and Stupid)
 

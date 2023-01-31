@@ -2,10 +2,11 @@
 layout: post
 title: 辛普森悖论
 categories: tips 
-tags: 悖论
+tags: 辩论
+date: 2020/11/08 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_111.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_111.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_111.jpg)](https://image.sideproject.cn/titlex/titlex_111.jpg)
 
 **辛普森悖论**
 

@@ -2,10 +2,11 @@
 layout: post
 title: 胆小鬼博弈
 categories: tips 
-tags: 博弈论 Game Theory
+tags: 辩论
+date: 2020/08/23 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_166.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_166.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_166.jpg)](https://image.sideproject.cn/titlex/titlex_166.jpg)
 
 **胆小鬼博弈**(Chicken Game)
 

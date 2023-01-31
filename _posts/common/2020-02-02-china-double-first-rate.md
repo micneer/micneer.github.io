@@ -2,10 +2,11 @@
 layout: post
 title: 中国双一流建设学科名单
 categories: tips 
-tags: 双一流
+tags: 大学
+date: 2020/02/02 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_158.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_158.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_158.jpg)](https://image.sideproject.cn/titlex/titlex_158.jpg)
 
 **“双一流”建设学科名单**
 
