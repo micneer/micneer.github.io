@@ -1,0 +1,12 @@
+---
+layout: post
+title: 你不需要他
+categories: tips 
+tags: 系统设计 编程
+---
+
+[![title](https://image.sideproject.cn/titlex/titlex_005.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_005.jpg){:target="_blank"}
+
+**YAGNI**(You Ain’t Gonna Need It)
+
+如果概念上没有提到，那代码中也不能出现
