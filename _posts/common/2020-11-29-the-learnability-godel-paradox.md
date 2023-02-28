@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/11/29 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_246.jpg)](https://image.sideproject.cn/titlex/titlex_246.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_246.jpg)
 
 **哥德尔悖论**是基于数理逻辑的一类重要悖论。哥德尔在20世纪30年代提出，他的悖论证明了数学中存在无法被证明或证伪的命题。这个发现极大地冲击了当时对于数学基础的信仰，并且启发了其他领域的类似探索。这个悖论也被称为可学习性悖论。
 

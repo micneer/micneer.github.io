@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/12/27 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_051.jpg)](https://image.sideproject.cn/titlex/titlex_051.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_051.jpg)
 
 **说谎者悖论**（Liar Paradox）又称为谎言者悖论，悖论内容为：
 

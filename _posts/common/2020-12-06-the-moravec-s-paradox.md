@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/12/06 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_147.jpg)](https://image.sideproject.cn/titlex/titlex_147.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_147.jpg)
 
 **莫拉韦克悖论**（Möbius Paradox）是一种悖论类型，它描述了在一些情况下，无论一个事件是如何发生的，都会得出相同的结果。这个悖论是以德国数学家莫比乌斯的名字命名的，因为他的一些早期研究和他所发明的莫比乌斯环都涉及到了循环和无限的概念。
 

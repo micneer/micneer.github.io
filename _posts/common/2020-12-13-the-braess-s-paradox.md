@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/12/13 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_049.jpg)](https://image.sideproject.cn/titlex/titlex_049.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_049.jpg)
 
 **布雷斯悖论**（Braess's paradox）是一种非直觉的交通现象，它描述了当某些道路系统中增加道路或者容量时，反而会导致交通拥堵加剧的现象。
 
