@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/11/22 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_213.jpg)](https://image.sideproject.cn/titlex/titlex_213.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_213.jpg)
 
 **费米悖论**是指在宇宙中存在着大量的恒星和行星，而有一部分可能存在着类似地球的行星，那么在这样的情况下，为什么我们还没有发现外星文明的存在。
 

@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/11/08 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_111.jpg)](https://image.sideproject.cn/titlex/titlex_111.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_111.jpg)
 
 **辛普森悖论**
 

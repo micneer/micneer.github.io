@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/08/23 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_166.jpg)](https://image.sideproject.cn/titlex/titlex_166.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_166.jpg)
 
 **胆小鬼博弈**(Chicken Game)
 

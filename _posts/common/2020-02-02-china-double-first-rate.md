@@ -6,7 +6,7 @@ tags: 大学
 date: 2020/02/02 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_158.jpg)](https://image.sideproject.cn/titlex/titlex_158.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_158.jpg)
 
 **“双一流”建设学科名单**
 

@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/08/16 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_152.jpg)](https://image.sideproject.cn/titlex/titlex_152.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_152.jpg)
 
 **KISS原则**
 

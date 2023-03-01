@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/09/06 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_168.jpg)](https://image.sideproject.cn/titlex/titlex_168.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_168.jpg)
 
 **纳什均衡**（Nash Equilibrium）是博弈论中的一个概念，指的是在一个博弈中，每个玩家都做出了最优决策的策略组合。也就是说，当每个玩家都采取了最佳决策时，无论其他玩家采取什么策略，都不能使任何一个玩家的收益更高。
 

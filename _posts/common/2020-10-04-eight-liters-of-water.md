@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/10/04 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_098.jpg)](https://image.sideproject.cn/titlex/titlex_098.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_098.jpg)
 
 **问：** 有两个桶，一个10升，一个6升，怎么取8升水？
 

@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/11/15 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_112.jpg)](https://image.sideproject.cn/titlex/titlex_112.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_112.jpg)
 
 **外祖母悖论**（Grandmother paradox）是一个哲学上的悖论，也被称为时间旅行悖论。这个悖论主要是关于时间旅行的，它描述了在时间旅行中如果一个人回到过去，然后杀死了自己的祖母，那么这个人如何存在于未来呢？这个问题看起来很简单，但是一旦深入思考，就会发现其涉及到许多哲学和科学问题。
 

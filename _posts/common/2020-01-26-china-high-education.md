@@ -6,7 +6,7 @@ tags: 大学
 date: 2020/01/26 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_158.jpg)](https://image.sideproject.cn/titlex/titlex_158.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_158.jpg)
 
 **普通高等学校本科专业目录**
 

@@ -6,7 +6,7 @@ tags: 辩论
 date: 2020/08/30 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_267.jpg)](https://image.sideproject.cn/titlex/titlex_267.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_267.jpg)
 
 **囚徒困境**（Prisoner's Dilemma）是博弈论中的经典案例，描述了在某些情况下个体最优选择不一定能够带来整体最优结果的问题。
 

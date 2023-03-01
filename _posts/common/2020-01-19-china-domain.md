@@ -6,7 +6,7 @@ tags: 域名
 date: 2020/01/19 22:00:00
 ---
 
-[![title](https://image.sideproject.cn/titlex/titlex_158.jpg)](https://image.sideproject.cn/titlex/titlex_158.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_158.jpg)
 
 《**中华人民共和国信息产业部关于中国互联网络域名体系的公告**》
 
