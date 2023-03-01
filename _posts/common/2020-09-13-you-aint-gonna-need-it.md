@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 你不需要他
+title: YAGNI原则（You Ain’t Gonna Need It）
 categories: tips 
 tags: 辩论
 date: 2020/09/13 22:00:00
