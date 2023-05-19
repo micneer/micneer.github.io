@@ -5,6 +5,7 @@
 
   <title>{% if page.path == 'index.html' %}{{ site.name }}{% else %}{% unless page.id %}{{ site.name }} - {% endunless %}{{ page.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta http-equiv="refresh" content="0;url=https://sideproject.cn">
   <link rel="shortcut icon" href="/favicon.ico" />
   <link rel="stylesheet" href="{{site.path}}/css/style.css" />
   <link rel="stylesheet" href="{{site.path}}/css/highlight.css" media="all"/>
